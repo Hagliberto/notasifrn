@@ -27,7 +27,7 @@ Este é o código-fonte de uma calculadora de notas desenvolvida para o curso de
 
 ##
 
-Acesse: https://hagliberto.github.io/notasIfrn/
+Acesse: https://hagliberto.github.io/notasifrn/
 
 ## Uso
 
